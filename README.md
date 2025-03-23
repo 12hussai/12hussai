@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @12hussai
-- 👀 I’m interested in ai , datascience 
-- 🌱 I’m currently learning typescript and sql
+- 👀 I’m interested in ai , datascience , machine learning
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/hussain-ahmed-083b511b4/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
